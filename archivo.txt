@@ -5,3 +5,4 @@
 "Modificaci¢n realizada por el Usuario 1" 
 >>>>>>> rama-usuario1
 "Cambios del Usuario 1" 
+"Cambios del Usuario 2" 
